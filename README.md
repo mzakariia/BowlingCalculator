@@ -1,4 +1,4 @@
-# BowlingCalcultor
+# BowlingCalculator
 
 This is a project done as part of an internship.
 
